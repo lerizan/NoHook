@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "nohook",
+  "version": "${version}",
+  "name": "NoHook",
+  "description": "A client-side mod that hides fishing hooks/bobbers when hooked, specifically designed for PvP visibility.",
+  "authors": [
+    "lerizan"
+  ],
+  "contact": {
+    "sources": "https://github.com/lerizan/NoHook"
+  },
+  "license": "MIT",
+  "icon": "assets/nohook/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "leriz.client.NohookClient"
+    ],
+    "main": [
+      "leriz.Nohook"
+    ],
+    "modmenu": [
+      "leriz.config.ModMenuIntegration"
+    ]
+  },
+  "mixins": [
+    "nohook.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric-api": "*",
+    "minecraft": "${minecraft_version}",
+    "cloth-config2": ">=15.0.0",
+    "modmenu": ">=11.0.0"
+  }
+}

@@ -1,0 +1,13 @@
+{
+    "category.NoHook": "NoHook",
+    "key.nohook.toggle": "Toggle NoHook",
+    "message.nohook.toggle": "NoHook: %s",
+    "message.nohook.enabled": "Enabled",
+    "message.nohook.disabled": "Disabled",
+    "text.autoconfig.nohook.title": "NoHook Settings",
+    "text.autoconfig.nohook.option.enabled": "Mod Enabled",
+    "text.autoconfig.nohook.option.onlyPlayerHooks": "Only Player-Thrown Hooks",
+    "text.autoconfig.nohook.option.onlyWhenHooked": "Only When Player Hooked",
+    "text.autoconfig.nohook.option.thirdPersonSupport": "Third-Person Visibility",
+    "text.autoconfig.nohook.option.hideLine": "Hide Fishing Line"
+}

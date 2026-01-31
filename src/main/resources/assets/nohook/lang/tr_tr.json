@@ -1,0 +1,13 @@
+{
+    "category.NoHook": "NoHook",
+    "key.nohook.toggle": "NoHook Aç/Kapat",
+    "message.nohook.toggle": "NoHook: %s",
+    "message.nohook.enabled": "Açık",
+    "message.nohook.disabled": "Kapalı",
+    "text.autoconfig.nohook.title": "NoHook Ayarları",
+    "text.autoconfig.nohook.option.enabled": "Modu Etkinleştir",
+    "text.autoconfig.nohook.option.onlyPlayerHooks": "Sadece Oyuncuların Attığı Oltalar",
+    "text.autoconfig.nohook.option.onlyWhenHooked": "Sadece Oyuncu Tutulduğunda",
+    "text.autoconfig.nohook.option.thirdPersonSupport": "Üçüncü Şahıs Kamera Desteği",
+    "text.autoconfig.nohook.option.hideLine": "Oltanın İpini Gizle"
+}
